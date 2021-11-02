@@ -34,10 +34,13 @@ Here are some ideas to get you started:
   </tbody>
 </table>
 
-## List of my live pages:
-  * [Pong game](https://margual56.github.io/pong) (mostly for PC users)
-  * A [sudoku puzzle generator](https://margual56.github.io/sudoku-generator) (sometimes it crashes)
-  * [My CV](https://margual56.github.io/mycv) (made using React... yeah 😅)
+| <h3> List of my live pages: </h3> | <h3> List of games </h3> <h6>(made in Java)</h6> |
+|---|---|
+| [Pong game](https://margual56.github.io/pong) (mostly for PC users) | Conway's [Game of Life](https://github.com/margual56/GameOfLife) |
+| A [sudoku puzzle generator](https://margual56.github.io/sudoku-generator) (sometimes it crashes)| A [Space Game](https://github.com/margual56/SpaceGame) (for android) <br/> This is an original game, available [here](https://play.google.com/store/apps/details?id=com.MarcosGutierrez.EpicFeint) in Google's playstore |
+| [My CV](https://margual56.github.io/mycv) (made using React... yeah 😅) | [Minesweeper](https://github.com/margual56/Minesweeper) |
+| | [Asteroids](https://github.com/margual56/Asteroids) |
+| | [The Snake](https://github.com/margual56/SnakeGame) |
 
 ## Projects worth checking out
   * [Turing machine](https://github.com/margual56/TuringMachine):
