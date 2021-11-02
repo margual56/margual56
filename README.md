@@ -16,13 +16,24 @@ Here are some ideas to get you started:
 -->
 
 # Welcome to my GitHub page!
-  - 🔭 I’m currently working on passing Uni's exams
-  - 🌱 I’m currently learning to manage my time
-  - 👯 I’m looking to collaborate on an open-source project 
-  - 💬 Ask me about anything 😄
-  - 📫 How to reach me: margual56@gmail.com
-  - ⚡ Fun fact: I am a [productive procrastinator](https://www.urbandictionary.com/define.php?term=productive%20procrastination) 😇
- 
+
+<table>
+  <tbody>
+    <tr>
+      <td>🔭 I’m currently working on passing Uni's exams</td>
+      <td>💬 Ask me about anything 😄</td>
+    </tr>
+    <tr>
+      <td>🌱 I’m currently learning to manage my time</td>
+      <td>📫 How to reach me: margual56@gmail.com</td>
+    </tr>
+    <tr>
+      <td>👯 I’m looking to collaborate on an open-source project</td>
+      <td>⚡ Fun fact: I am a <a href="https://www.urbandictionary.com/define.php?term=productive%20procrastination">productive procrastinator</a> 😇</td>
+    </tr>
+  </tbody>
+</table>
+
 ## List of my live pages:
   * [Pong game](https://margual56.github.io/pong) (mostly for PC users)
   * A [sudoku puzzle generator](https://margual56.github.io/sudoku-generator) (sometimes it crashes)
