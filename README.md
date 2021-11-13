@@ -46,7 +46,8 @@ Here are some ideas to get you started:
   * [Turing machine](https://github.com/margual56/TuringMachine):
      * A programmable, simplified, ideal [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) made in Java using [Processing](https://processing.org/)'s core utils
      * You can give it a program (following the syntax from [the examples](https://github.com/margual56/TuringMachine/blob/cafda932f13996d2a9adf20c2c7b9f5d74e655d5/Examples/Example1.tm)) and it will run it as if it had infinite memory on the tape.
-     * You can pause/unpause and restart the machine by pressing the spacebar
+     * Its interpreter supports Syntax and Runtime Errors
+     * Add the [VsCode](https://marketplace.visualstudio.com/items?itemName=MarcosGutirrezAlonso.turing-machine) or the [Code-OSS](https://open-vsx.org/extension/MarcosGutirrezAlonso/turing-machine) extensions to enable syntax highlighting of the code and more.
     
   * [Ray Marching](https://github.com/margual56/RayMarching):
       * A single-threaded, CPU-based, [Ray Marching](https://michaelwalczyk.com/blog-ray-marching.html) 3D renderer
