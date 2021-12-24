@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <table>
   <tbody>
     <tr>
-      <td>🔭 I’m currently working on passing Uni's exams</td>
+      <td>🔭 I’m currently working on a rusty <a href="https://2017.halite.io/">Halite 2</a> clone</td>
       <td>💬 Ask me about anything 😄</td>
     </tr>
     <tr>
