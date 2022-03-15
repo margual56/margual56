@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <table>
   <tbody>
     <tr>
-      <td>🔭 I’m currently working on a rusty <a href="https://2017.halite.io/">Halite 2</a> clone</td>
+      <td>🔭 I’m currently working on a rusty <a href="https://2017.halite.io/">Halite 2</a> clone, and a new <a href="https://podcast-tan.vercel.app/">secret project...</a></td>
       <td>💬 Ask me about anything 😄</td>
     </tr>
     <tr>
@@ -34,7 +34,20 @@ Here are some ideas to get you started:
   </tbody>
 </table>
 
-| <h3> List of my live pages: </h3> | <h3> List of games </h3> <h6>(made in Java)</h6> |
+
+## My contributions in FOSS
+
+* Creator of [Simple Templates](https://github.com/simple-templates), where you can find starting templates for many types of projects
+* Fixed [ani-cli](https://github.com/pystardust/ani-cli)'s download &rarr; [PR #494](https://github.com/pystardust/ani-cli/pull/494)
+* Fixed a JS event bug on [react-click-to-edit](https://github.com/chungchiehlun/react-click-to-edit) &rarr; [PR #14](https://github.com/chungchiehlun/react-click-to-edit/pull/14)
+* Spotted typescript bug in [Split](https://github.com/nathancahill/split) &rarr; [Issue #686](https://github.com/nathancahill/split/issues/686)
+* [PygObject documentation](https://github.com/pygobject/pgi-docgen) clarification &rarr; [Issue #205](https://github.com/pygobject/pgi-docgen/issues/205)
+
+I'm always on the lookout for more interesting contributions!
+
+## Interactive projects
+
+| <h4> List of my live pages: </h4> | <h4> List of games </h4> <h6>(made in Java)</h6> |
 |---|---|
 | [Pong game](https://margual56.github.io/pong) (mostly for PC users) | Conway's [Game of Life](https://github.com/margual56/GameOfLife) |
 | A [sudoku puzzle generator](https://margual56.github.io/sudoku-generator) (sometimes it crashes)| A [Space Game](https://github.com/margual56/SpaceGame) (for android) <br/> This is an original game, available [here](https://play.google.com/store/apps/details?id=com.MarcosGutierrez.EpicFeint) in Google's playstore |
