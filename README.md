@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ## My contributions in FOSS
 
 * Creator of [Simple Templates](https://github.com/simple-templates), where you can find starting templates for many types of projects
+* Added Spanish Layout to [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard/) &rarr; [PR #33](https://github.com/SimpleMobileTools/Simple-Keyboard/pull/33)
 * Fixed [ani-cli](https://github.com/pystardust/ani-cli)'s download &rarr; [PR #494](https://github.com/pystardust/ani-cli/pull/494)
 * Fixed a JS event bug on [react-click-to-edit](https://github.com/chungchiehlun/react-click-to-edit) &rarr; [PR #14](https://github.com/chungchiehlun/react-click-to-edit/pull/14)
 * Spotted typescript bug in [Split](https://github.com/nathancahill/split) &rarr; [Issue #686](https://github.com/nathancahill/split/issues/686)
