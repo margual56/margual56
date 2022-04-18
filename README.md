@@ -34,12 +34,18 @@ Here are some ideas to get you started:
   </tbody>
 </table>
 
+<br/>
+
+![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=margual56&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margual56&layout=compact&theme=dracula&langs_count=6)
+
 
 ## My contributions in FOSS
 
 * Creator of [Simple Templates](https://github.com/simple-templates), where you can find starting templates for many types of projects
 * Added Spanish Layout to [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard/) &rarr; [PR #33](https://github.com/SimpleMobileTools/Simple-Keyboard/pull/33)
 * Fixed [ani-cli](https://github.com/pystardust/ani-cli)'s download &rarr; [PR #494](https://github.com/pystardust/ani-cli/pull/494)
+* Added `depends` and `optdepends` options to [cargo-aur](https://github.com/fosskers/cargo-aur/) &rarr; [PR #11](https://github.com/fosskers/cargo-aur/pull/11)
 * Fixed a JS event bug on [react-click-to-edit](https://github.com/chungchiehlun/react-click-to-edit) &rarr; [PR #14](https://github.com/chungchiehlun/react-click-to-edit/pull/14)
 * Spotted typescript bug in [Split](https://github.com/nathancahill/split) &rarr; [Issue #686](https://github.com/nathancahill/split/issues/686)
 * [PygObject documentation](https://github.com/pygobject/pgi-docgen) clarification &rarr; [Issue #205](https://github.com/pygobject/pgi-docgen/issues/205)
