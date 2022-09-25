@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <table>
   <tbody>
     <tr>
-      <td>🔭 I’m currently working on a rusty <a href="https://2017.halite.io/">Halite 2</a> clone, and a new <a href="https://podcast-tan.vercel.app/">secret project...</a></td>
+      <td>🔭 I’m currently working on a rusty MIME cli editor</td>
       <td>💬 Ask me about anything 😄</td>
     </tr>
     <tr>
@@ -56,33 +56,19 @@ Here are some ideas to get you started:
 
 I'm always on the lookout for more interesting contributions!
 
-## Interactive projects
-
-| <h4> List of my live pages: </h4> | <h4> List of games </h4> <h6>(made in Java)</h6> |
-|---|---|
-| [Pong game](https://margual56.github.io/pong) (mostly for PC users) | Conway's [Game of Life](https://github.com/margual56/GameOfLife) |
-| A [sudoku puzzle generator](https://margual56.github.io/sudoku-generator) (sometimes it crashes)| A [Space Game](https://github.com/margual56/SpaceGame) (for android) <br/> This is an original game, available [here](https://play.google.com/store/apps/details?id=com.MarcosGutierrez.EpicFeint) in Google's playstore |
-| [My CV](https://margual56.github.io/mycv) (made using React... yeah 😅) | [Minesweeper](https://github.com/margual56/Minesweeper) |
-| | [Asteroids](https://github.com/margual56/Asteroids) |
-| | [The Snake](https://github.com/margual56/SnakeGame) |
-
 ## Projects worth checking out
+  * [Radio CLI](https://github.com/margual56/radio-cli):
+     * A customizable Radio for your console made in Rust that uses mpv to play radios all around the world.
+     * It can even play youtube videos and just download the audio (thanks to mpv)!
+  * [Tic Tac Toe](https://github.com/margual56/tic-tac-toe):
+     * A Rusty multiplayer implementation of the Tic Tac Toe game.
+     * It compiles to a single binary that contains a server and a client.
+     * Two players can join over internet and play any size of board!
   * [Turing machine](https://github.com/margual56/TuringMachine):
      * A programmable, simplified, ideal [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) made in Java using [Processing](https://processing.org/)'s core utils
      * You can give it a program (following the syntax from [the examples](https://github.com/margual56/TuringMachine/blob/cafda932f13996d2a9adf20c2c7b9f5d74e655d5/Examples/Example1.tm)) and it will run it as if it had infinite memory on the tape.
      * Its interpreter supports Syntax and Runtime Errors
      * Add the [VsCode](https://marketplace.visualstudio.com/items?itemName=MarcosGutirrezAlonso.turing-machine) or the [Code-OSS](https://open-vsx.org/extension/MarcosGutirrezAlonso/turing-machine) extensions to enable syntax highlighting of the code and more.
-    
-  * [Ray Marching](https://github.com/margual56/RayMarching):
-      * A single-threaded, CPU-based, [Ray Marching](https://michaelwalczyk.com/blog-ray-marching.html) 3D renderer
-      * So why is this special? Because it does not use triangles to define the meshes, but mathematical formulas. This means that every element of the render could theoretically (given infinite computational power) be rendered with infinite resolution.
-      * Also it is made in java (and very badly because it was made in a week)
-  
-  * [Grep (clone)](https://github.com/margual56/grep-clone):
-      * A simpler, slower and rustier version of grep
-      * It is just a naive approach to string searching in a text... but it is written in Rust!
-      * Also, [the wiki](https://github.com/margual56/grep-clone/wiki/Why-slower%3F) has a pretty cool analysis of GNU's grep vs my grep clone
-
   * [Markdown renderer](https://github.com/margual56/Markdown-CLI):
       * It is incomplete, but it mostly works for 90% of the simpler markdown syntax
       * Lets you convert a simple markdown file into an HTML file, with the option to embed a stylesheet other than the default
