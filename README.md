@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 I'm always on the lookout for more interesting contributions!
 
 ## Projects worth checking out
-  * [Turing Machine 2.0](https://github.com/margual56/turing-machine-2,0)
+  * [Turing Machine 2.0](https://github.com/margual56/turing-machine-2.0)
      * A next-gen version of the original Turing machine.
      * Made completely in Rust, which means it is cross-platform, performant and memory-safe!
      * A web version is available [here](https://turing.coldboard.net) 
