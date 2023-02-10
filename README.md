@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <table>
   <tbody>
     <tr>
-      <td>🔭 I’m currently working on a rusty MIME cli editor</td>
+      <td>🔭 I’m currently working on my final degree project: a <a href="https://turing.coldboard.net">Turing Machine emulator</a>!</td>
       <td>💬 Ask me about anything 😄</td>
     </tr>
     <tr>
@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 
 ## My contributions in FOSS
 
+* Creator and maintainer of [slimbookservice-bin](https://aur.archlinux.org/packages/slimbookservice-bin) in the AUR
 * Creator of [Simple Templates](https://github.com/simple-templates), where you can find starting templates for many types of projects
 * Added Spanish Layout to [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard/) &rarr; [PR #33](https://github.com/SimpleMobileTools/Simple-Keyboard/pull/33)
 * Fixed [ani-cli](https://github.com/pystardust/ani-cli)'s download &rarr; [PR #494](https://github.com/pystardust/ani-cli/pull/494)
@@ -57,6 +58,10 @@ Here are some ideas to get you started:
 I'm always on the lookout for more interesting contributions!
 
 ## Projects worth checking out
+  * [Turing Machine 2.0](https://github.com/margual56/turing-machine-2,0)
+     * A next-gen version of the original Turing machine.
+     * Made completely in Rust, which means it is cross-platform, performant and memory-safe!
+     * A web version is available [here](https://turing.coldboard.net) 
   * [Radio CLI](https://github.com/margual56/radio-cli):
      * A customizable Radio for your console made in Rust that uses mpv to play radios all around the world.
      * It can even play youtube videos and just download the audio (thanks to mpv)!
